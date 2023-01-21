@@ -60,10 +60,4 @@ To modify the colors in the application, make changes in the ```src/theme/theme.
 
 To modify the fonts in the application, first, add a new font to the ```public/index.html``` file, and then make changes in the ```src/theme/typography.js``` file.
 
-### Changing Logo
 
-To modify the logo in the application, make changes in the ```src/layout/Header.js``` and ```src/layout/Sidebar.js``` files.
-
-## Copyright and License
-
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
